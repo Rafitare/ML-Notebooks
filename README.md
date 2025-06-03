@@ -13,6 +13,10 @@ This repository contains 5 hands-on machine learning projects developed as part 
 
 ## 📁 Contents
 
+### ⚠️ Some of the output visualisations (especially the ones using plotly) were cleared to save space and make the notebooks visibile directly through GitHub
+  - The 3rd notebook may have some rendering issues inside GitHub, so it might not load properly
+
+
 ### 1. 📊 Data Preprocessing, Visualization & Movie Recommendation System
 - **Notebook:** `1_data_preprocessing_movie_recommendation_system.py`
 - **Goal:** Clean, transform, and visualize IMDb's Top 1000 Movies dataset, make a movie recommendation system
