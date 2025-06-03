@@ -16,6 +16,8 @@ This repository contains 5 hands-on machine learning projects developed as part 
 ### ⚠️ Some of the output visualisations (especially the ones using plotly) were cleared to save space and make the notebooks visibile directly through GitHub
   - The 3rd notebook may have some rendering issues inside GitHub, so it might not load properly
 
+### `data/imdb_top_1000_cleaned.csv`
+  - The data folder contains the cleaned, normalized top 1000 IMDb dataset that I created in notebook 1 and used in notebooks 2 and 3
 
 ### 1. 📊 Data Preprocessing, Visualization & Movie Recommendation System
 - **Notebook:** `1_data_preprocessing_movie_recommendation_system.py`
