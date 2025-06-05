@@ -19,9 +19,9 @@ This repository contains 5 hands-on machine learning projects developed as part 
 ### `data/imdb_top_1000_cleaned.csv`
   - The data folder contains the cleaned, normalized top 1000 IMDb dataset that I created in notebook 1 and used in notebooks 2 and 3
 
-### 1. 📊 Data Preprocessing, Visualization & Movie Recommendation System
+### 1. 📊 Data Preprocessing, Visualisation & Movie Recommendation System
 - **Notebook:** `1_data_preprocessing_movie_recommendation_system.py`
-- **Goal:** Clean, transform, and visualize IMDb's Top 1000 Movies dataset, make a movie recommendation system
+- **Goal:** Clean, transform, and visualise IMDb's Top 1000 Movies dataset, make a movie recommendation system
 - **Highlights:**
   - Missing value imputation (median, mean, genre-based filling)
   - Outlier detection and clipping using IQR
